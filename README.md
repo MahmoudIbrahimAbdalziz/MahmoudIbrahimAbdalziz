@@ -1,10 +1,11 @@
-### Hi there 👋, Mahmoud Ibrahim
-#### Embedded systems & Robotics
+
 ![Embedded systems & Robotics](https://github.com/MahmoudIbrahimAbdalziz/MahmoudIbrahimAbdalziz/blob/main/Mahmoud.jpg)
 
+### Hi there 👋, Mahmoud Ibrahim
 I am Mahmoud Ibrahim from Egypt, I am an Embedded Systems and mechatronic engineer I love learning language and writing code
 
-Skills: C/ C++/ python / Embedded Systems / ROS
+Skills:
+C/ C++/ python / Embedded Systems / ROS
 
 
 
